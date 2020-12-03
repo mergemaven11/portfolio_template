@@ -1,0 +1,19 @@
+{
+  "name": "portfolio_template",
+  "version": "1.0.0",
+  "description": "Portfolio Template Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tobias2023/portfolio_template.git"
+  },
+  "author": "Tobias S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tobias2023/portfolio_template/issues"
+  },
+  "homepage": "https://github.com/Tobias2023/portfolio_template#readme"
+}
