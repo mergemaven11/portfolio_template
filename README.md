@@ -8,4 +8,4 @@ Portfolio template with HTML/CSS/JavaScript
 
 ## Website
 
-![Live demo](dhtmltemplate.netlify.app)
+[Live demo](https://dhtmltemplate.netlify.app)
